@@ -13,6 +13,7 @@ friends = [
     {"name": "Anne Pun", "age": 27},
 ]
 
+
 print(friends)
 
 # -- Iteration --
